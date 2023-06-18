@@ -1,15 +1,16 @@
 # Final_Project_Home_Credit_Indonesia
 
 Nama : Muhammad Farhan Darmawan
+
 Batch : RMT 019
 
-Link for Deployment : https://huggingface.co/spaces/farhandraka/Home-Credit-Indonesia-Prediction
+# Link for Deployment : https://huggingface.co/spaces/farhandraka/Home-Credit-Indonesia-Prediction
 
-Project Description :
+# **Project Description :**
 
 Memprediksi customer behavior yang dimiliki oleh HOME CREDIT INDONESIA apakah sulit membayar atau tidak menggunakan machine learning (supervised learning) dengan algoritma CatBoost, Random Forest, dan XGBoost
 
-Conclusion :
+# **Conclusion :**
 
 ## **Exploratory Data Analysis :**
 
